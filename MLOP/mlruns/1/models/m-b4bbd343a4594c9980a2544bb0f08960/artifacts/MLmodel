@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/DELL/Desktop/Flipkart_Sentiment_analysis/MLOP/mlruns/1/models/m-b4bbd343a4594c9980a2544bb0f08960/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-b4bbd343a4594c9980a2544bb0f08960
+model_size_bytes: 79424
+model_uuid: m-b4bbd343a4594c9980a2544bb0f08960
+prompts: null
+run_id: 89567f32185244a4b184522ec4639bd1
+utc_time_created: '2026-02-13 17:38:50.169461'
