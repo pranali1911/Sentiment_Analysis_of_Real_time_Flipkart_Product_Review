@@ -1,9 +1,3 @@
-# Sentiment_Analysis_of_Real_time_Flipkart_Product_Reviews
-Awesome — here’s your **FULL, FINAL, ready-to-paste `README.md`** for your GitHub project.
-This is clean, professional, internship-ready, and matches your MLflow + Streamlit + AWS setup 👌
-Just copy everything below into a file named **`README.md`** in your repo.
-
----
 
 # 📊 Sentiment Analysis of Real-time Flipkart Product Reviews
 
